@@ -1,0 +1,1 @@
+GCARA (Global Crisis Anticipation & Response AI) is an intelligent, multi-domain platform designed to predict global crises such as pandemics, natural disasters, and economic instabilities before they occur. It integrates data from health, climate, finance, and social media sources using advanced data engineering and AI models.
